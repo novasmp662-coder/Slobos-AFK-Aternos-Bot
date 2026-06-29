@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "MRStecchino",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "lolnovasmp.aternos.me",
+    "port": 16009,
+    "version": "1.21.4",
     "try-creative": false
   },
   "position": {
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1521217593254351031/Bo8jTPwOdFdvCN6s5QB5uTFK2sVIZm2X8gg67IRkRnoIx3VnWZY8ZmGHqQbjQPvgh3Ux",
     "events": {
       "connect": true,
       "disconnect": true,
