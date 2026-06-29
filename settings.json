@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mcnovasmp.dpdns.org",
+    "ip": "lolnovasmp.aternos.me",
     "port": 16009,
     "version": "1.21.4",
     "try-creative": false
